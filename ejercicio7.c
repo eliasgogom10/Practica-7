@@ -17,5 +17,6 @@ int main()
   printf("\n%d", MIERCOLES);
   printf("\n%i", JUEVES); 
   printf("\n%d\n", VIERNES);
+  
   return 0;
 }
